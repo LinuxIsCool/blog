@@ -42,6 +42,7 @@ Unfortunately Ueberzug only supports linux at the moment as far as I know
 - Ubuntu (Note you may experience your images being badly placed this is because pip doesn't have the newest version of ueberzug, if you find this issue please install from source)
 
   ```
+  sudo apt install libxtst-dev
   pip install ueberzug
   ```
 
